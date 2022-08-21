@@ -1,0 +1,6 @@
+Five brands:
+(Model: model 0, price: 0.0)
+(Model: model 1, price: 0.0)
+(Model: model 2, price: 0.0)
+(Model: model 3, price: 0.0)
+(Model: model 4, price: 0.0)

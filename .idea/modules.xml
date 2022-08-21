@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Strategy_DOM_SAX/Strategy_DOM_SAX.iml" filepath="$PROJECT_DIR$/Strategy_DOM_SAX/Strategy_DOM_SAX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioralPatterns.iml" filepath="$PROJECT_DIR$/behavioralPatterns.iml" />
+    </modules>
+  </component>
+</project>

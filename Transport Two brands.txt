@@ -1,0 +1,1 @@
+Two brands: (Model: model 0, price: 0.0)(Model: model 1, price: 0.0)
